@@ -1,5 +1,5 @@
 # 🎲 Dice Roller
-Simple dice roller built using HTML, CSS, and JavaScript.
+Simple dice roller built using HTML, CSS, and basic JavaScript.
 
 ## ✨ Features
 - 🎲 Roll one or multiple dice
